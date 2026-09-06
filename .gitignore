@@ -3,3 +3,7 @@
 [Ll]og/
 [Ll]ogs/
 *.user
+
+# Secrets and local overrides
+appsettings.Development.json
+appsettings.*.local.json
